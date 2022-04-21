@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\github\exceptions1java\.metadata\.plugins\org.eclipse.jdt.core
+1143781820.index
+1151521893.index
