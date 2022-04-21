@@ -47,10 +47,9 @@ public class Reservation {
 		}
 		if (!checkout.after(checkin)) {
 			return "Error in reservation: Check-out date must be after check-in date";
-		}
+		
 		this.checkin = checkin;
 		this.checkout = checkout;
-		return null;
 	}
 	
 	@Override
